@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zhcdoem52-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/zhcdoem52-dotnet-basic
